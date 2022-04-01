@@ -6,10 +6,11 @@ Paste_Anywhere was made because I had to use Borland's Turbo C++ in 2022, and I 
 _Paste Anywhere_ can be used by engineering students across the country, whoever has to use Turbo C++ in their class.
 
 ## How to Use
-1. Open VSCode and type your code in it.
-2. Copy your code by selecting all of it with `Ctrl+A` and copy it using `Ctrl+C`.
-3. Open Turbo C++.
-4. ✨Paste your code using **`Ctrl+Shift+V`.**
+1. Run Paste_Anywhere.exe (It will run in the background)
+2. Open VSCode and type your code in it.
+3. Copy your code by selecting all of it with `Ctrl+A` and copy it using `Ctrl+C`.
+4. Open Turbo C++.
+5. ✨Paste your code using **`Ctrl+Shift+V`.**
 
 https://user-images.githubusercontent.com/46340124/161311276-2103b0b9-ad97-4dcf-adf9-b31eb1a8cb59.mp4
 
