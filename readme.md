@@ -24,3 +24,5 @@ _Paste Anywhere_ can be used by engineering students across the country, whoever
 
 ## How it Works
 _Paste Anywhere_ works by simulating keystrokes. That is, it appears to the computer that you are manually typing in the information.
+
+## `Ctrl+C` -> `Ctrl+Shift+V`
