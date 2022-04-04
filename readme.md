@@ -19,3 +19,8 @@ _Paste Anywhere_ can be used by engineering students across the country, whoever
 5. ✨Paste your code using **`Ctrl+Shift+V`.**
 
 ![Made By Siddharth Bhatia (1)](https://user-images.githubusercontent.com/46340124/161309185-b67bdc91-9794-4a7e-99ea-a21f02cfe1ee.png)
+
+---
+
+## How it Works
+_Paste Anywhere_ works by simulating keystrokes. That is, it appears to the computer that you are manually typing in the information.
