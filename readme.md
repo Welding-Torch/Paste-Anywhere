@@ -1,6 +1,7 @@
 ![ezgif-5-6c8d706b03](https://user-images.githubusercontent.com/46340124/161397136-eff4ddc9-3b4a-49f6-8f09-24623fd18f70.gif)
 
 # Paste Anywhere
+_A simple utility that allows you to paste code into TurboCPP._
 ## About
 Paste_Anywhere is a simple utility that allows you to paste code anywhere (Made for use with Turbo C++).
 
